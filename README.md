@@ -1,8 +1,8 @@
-# This is the spam bot that i coded.
 # This is coded by python and anti-virus programs can perceive the file as a virus 
 # But it has not any virus or trojan it is about its code
 # So, close the anti-virus programs or windows defender.
 
+This is the spam bot that i coded.
 All you have to do that:
 Open the exe file,
 Paste your webhook url,
